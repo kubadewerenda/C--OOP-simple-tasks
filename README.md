@@ -1,1 +1,2 @@
-"# C--OOP-simple-tasks" 
+# C--OOP-simple-tasks
+Some sample c++ tasks
